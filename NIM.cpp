@@ -55,7 +55,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-        cout << "pallr12@ru.is";
+        cout << "pallr12@ru.is committin to git";
 	return 0;
 }
 
