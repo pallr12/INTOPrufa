@@ -1,6 +1,5 @@
 //NIM dabs okt�ber 1997
 
-//Palli
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -56,7 +55,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+        cout << "pallr12@ru.is";
 	return 0;
 }
 
